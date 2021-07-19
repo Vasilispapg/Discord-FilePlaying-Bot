@@ -1,5 +1,5 @@
 # Discord-FilePlaying-Bot
-**Frouvis**
+**Freevy**
 
 https://discord.com/api/oauth2/authorize?client_id=843136210788417557&permissions=3270656&scope=bot
 
